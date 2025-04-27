@@ -7,7 +7,6 @@
 - 🔭 I'm currently working on Neural Rendering(NeRFs, Gaussian Splatting etc.) and Novel View Synthesis  
 - 👯 I'm looking to collaborate on projects related to Visual Odometry, VSLAM, and Object Detection 
 - 📫 How to reach me **berkayy.sarayy@gmail.com**  
-- 🎯 The source codes of the projects will be released on **01 April 2025**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
